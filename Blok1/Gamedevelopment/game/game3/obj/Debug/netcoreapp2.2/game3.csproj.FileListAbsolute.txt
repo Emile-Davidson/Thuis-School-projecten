@@ -1,0 +1,11 @@
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\Bewijzenmap-1.1\Gamedevelopment\game\game3\bin\Debug\netcoreapp2.2\game3.deps.json
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\Bewijzenmap-1.1\Gamedevelopment\game\game3\bin\Debug\netcoreapp2.2\game3.runtimeconfig.json
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\Bewijzenmap-1.1\Gamedevelopment\game\game3\bin\Debug\netcoreapp2.2\game3.runtimeconfig.dev.json
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\Bewijzenmap-1.1\Gamedevelopment\game\game3\bin\Debug\netcoreapp2.2\game3.dll
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\Bewijzenmap-1.1\Gamedevelopment\game\game3\bin\Debug\netcoreapp2.2\game3.pdb
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\Bewijzenmap-1.1\Gamedevelopment\game\game3\obj\Debug\netcoreapp2.2\game3.csprojAssemblyReference.cache
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\Bewijzenmap-1.1\Gamedevelopment\game\game3\obj\Debug\netcoreapp2.2\game3.csproj.CoreCompileInputs.cache
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\Bewijzenmap-1.1\Gamedevelopment\game\game3\obj\Debug\netcoreapp2.2\game3.AssemblyInfoInputs.cache
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\Bewijzenmap-1.1\Gamedevelopment\game\game3\obj\Debug\netcoreapp2.2\game3.AssemblyInfo.cs
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\Bewijzenmap-1.1\Gamedevelopment\game\game3\obj\Debug\netcoreapp2.2\game3.dll
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\Bewijzenmap-1.1\Gamedevelopment\game\game3\obj\Debug\netcoreapp2.2\game3.pdb

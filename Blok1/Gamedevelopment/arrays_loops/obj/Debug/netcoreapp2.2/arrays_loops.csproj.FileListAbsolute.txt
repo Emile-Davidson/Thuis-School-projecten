@@ -1,0 +1,11 @@
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\Bewijzenmap-1.1\Gamedevelopment\arrays_loops\obj\Debug\netcoreapp2.2\arrays_loops.csprojAssemblyReference.cache
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\Bewijzenmap-1.1\Gamedevelopment\arrays_loops\obj\Debug\netcoreapp2.2\arrays_loops.csproj.CoreCompileInputs.cache
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\Bewijzenmap-1.1\Gamedevelopment\arrays_loops\obj\Debug\netcoreapp2.2\arrays_loops.AssemblyInfoInputs.cache
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\Bewijzenmap-1.1\Gamedevelopment\arrays_loops\obj\Debug\netcoreapp2.2\arrays_loops.AssemblyInfo.cs
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\Bewijzenmap-1.1\Gamedevelopment\arrays_loops\obj\Debug\netcoreapp2.2\arrays_loops.dll
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\Bewijzenmap-1.1\Gamedevelopment\arrays_loops\obj\Debug\netcoreapp2.2\arrays_loops.pdb
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\Bewijzenmap-1.1\Gamedevelopment\arrays_loops\bin\Debug\netcoreapp2.2\arrays_loops.deps.json
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\Bewijzenmap-1.1\Gamedevelopment\arrays_loops\bin\Debug\netcoreapp2.2\arrays_loops.runtimeconfig.json
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\Bewijzenmap-1.1\Gamedevelopment\arrays_loops\bin\Debug\netcoreapp2.2\arrays_loops.runtimeconfig.dev.json
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\Bewijzenmap-1.1\Gamedevelopment\arrays_loops\bin\Debug\netcoreapp2.2\arrays_loops.dll
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\Bewijzenmap-1.1\Gamedevelopment\arrays_loops\bin\Debug\netcoreapp2.2\arrays_loops.pdb

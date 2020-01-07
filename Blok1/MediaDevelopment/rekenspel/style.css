@@ -1,0 +1,59 @@
+body {
+  background-color: #1374A9;
+}
+#wrapper {
+  background-color: gray;
+  margin: 0 auto;
+  width: 400px;
+  height: 600px;
+  border-style: solid;
+  border-radius: 4px;
+  border-width: 6px;
+}
+#head {
+  padding-top: 25px;
+  text-align: center;
+}
+.goed {
+  background-color: green;
+}
+.fout {
+  background-color: red;
+}
+.WrapperGOED {
+  border-color: green;
+}
+.WrapperFOUT {
+  border-color: red;
+}
+#validatie {
+  padding-top: 25px;
+  margin: 0 auto;
+  width: 200px;
+  height: 300px;
+}
+#MyAssignment {
+  font-size: 180%;
+}
+.GoedOfFoutIMG {
+  width: 50%;
+  opacity: 0;
+}
+.GoedOfFoutIMGAnimation {
+-webkit-animation-name: IMGfaidIn; /* Safari 4.0 - 8.0 */
+-webkit-animation-duration: 2s; /* Safari 4.0 - 8.0 */
+animation-name: IMGfaidIn;
+animation-duration: 2s;
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes IMGfaidIn {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
+/* Standard syntax */
+@keyframes IMGfaidIn {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
