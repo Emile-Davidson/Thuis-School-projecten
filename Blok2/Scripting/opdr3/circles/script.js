@@ -10,40 +10,35 @@ const height = window.innerHeight;
 canvas.width = width;
 canvas.height = height;
 
-
-// context.beginPath();
-// context.fillStyle = "orange";
-// context.strokeStyle = "black";
-// context.lineWidth = 5;
-// context.arc(300, 200, 60, 0, 2*Math.PI);
-// context.closePath();
-// context.stroke();
-// context.fill();
 let circleObject = {};
 
-circleObject.x = 300;
-circleObject.y = 200;
-circleObject.radius = 60;
-circleObject.sAngle = 0;
-circleObject.eAngle = Math.PI*2;
-circleObject.color = "yellow";
-circleObject.velocity_x = 0;
-circleObject.velocity_y = 0;
+circleObject.x = 700;
+circleObject.y = 400;
+circleObject.size = 500;
 
-circleObject.draw = function(){
+draw();
+function draw()
+{
+  context.clearRect(0,0,width,height);
   context.beginPath();
   context.lineWidth = 5;
-  context.arc(circleObject.x, circleObject.y, circleObject.radius, 0, 2*Math.PI);
+  context.fillStyle = "Green";
+  context.moveTo(circleObject.x, circleObject.y);
+  context.arc(circleObject.x, circleObject.y, circleObject.size, 0, 2 * Math.PI);
   context.closePath();
   context.stroke();
+  context.fill();
 }
 
-circleObject.draw();
-
-function animate(){
-  context.clearRect(0, 0, width, height);
-  circleObject.draw();
-  circleObject.x += 1
-  circleObject.y += 1
+loop();
+function loop(){
+if(circleObject.size == 0)
+{
+  circleObject.size = 500;
+}else
+{
+  circleObject.size -= 10;
 }
-setInterval(animate, 10)
+draw();
+  }
+setInterval(loop, 20)
